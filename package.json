@@ -9,7 +9,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "blog:dev": "vuepress dev blog",
-    "blog:build": "vuepress build blog"
+    "big:dev": "vuepress dev big",
+    "big:build": "vuepress build big"
   }
 }
